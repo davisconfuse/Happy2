@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 89b08dc4701e1604298e72f1f46e3c53
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy
+    21300002: Enemy_LegF
+    21300004: Enemy_LegB
+    21300006: Enemy_Neck
+    21300008: Enemy_EyeB
+    21300010: Enemy_EyeF
+    21300012: Enemy_HornB
+    21300014: Enemy_HornF
+    21300016: Enemy_WingB
+    21300018: Enemy_LegLF
+    21300020: Enemy_LegLB
+    21300022: Enemy_Blood
+    21300024: Enemy_Head
+    21300026: Enemy_EyeBrows 2
+    21300028: Enemy_EyeBrows 1
+    21300030: Enemy_WingF
+    21300032: Enemy_ShoeB
+    21300034: Enemy_ShoeF
+    21300036: Enemy_Mouth
+    21300038: Enemy_HandLF
+    21300040: Enemy_HandF
+    21300042: Enemy_HanfLB
+    21300044: Enemy_HandB
+    21300046: Enemy_Body
+    21300048: Enemy_Bott
+    21300050: Enemy_FingersF
+    21300052: Enemy_FingersB
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy_LegF
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 539
+        width: 66
+        height: 171
+      alignment: 9
+      pivot: {x: .526322603, y: .896692097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_LegB
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 539
+        width: 63
+        height: 171
+      alignment: 9
+      pivot: {x: .506259501, y: .904981136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Neck
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 562
+        width: 37
+        height: 49
+      alignment: 9
+      pivot: {x: .499999166, y: .170609459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_EyeB
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 602
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_EyeF
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 585
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_HornB
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 594
+        width: 40
+        height: 101
+      alignment: 9
+      pivot: {x: .588236988, y: .12259002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_HornF
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 578
+        width: 54
+        height: 118
+      alignment: 9
+      pivot: {x: .421566427, y: .12312343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_WingB
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 475
+        width: 247
+        height: 217
+      alignment: 9
+      pivot: {x: .0635534152, y: .634266078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_LegLF
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 394
+        width: 43
+        height: 168
+      alignment: 9
+      pivot: {x: .463317513, y: .89908129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_LegLB
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 394
+        width: 44
+        height: 167
+      alignment: 9
+      pivot: {x: .535849154, y: .891975462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Blood
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 528
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Head
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 327
+        width: 203
+        height: 203
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_EyeBrows 2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 374
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_EyeBrows 1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 375
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_WingF
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 217
+        width: 246
+        height: 216
+      alignment: 9
+      pivot: {x: .0519091599, y: .619150817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_ShoeB
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 313
+        width: 132
+        height: 57
+      alignment: 9
+      pivot: {x: .840563774, y: .749054492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_ShoeF
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 313
+        width: 132
+        height: 57
+      alignment: 9
+      pivot: {x: .825626493, y: .818236232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Mouth
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 276
+        width: 112
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_HandLF
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 107
+        width: 36
+        height: 139
+      alignment: 9
+      pivot: {x: .543814957, y: .928380311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_HandF
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 95
+        width: 48
+        height: 187
+      alignment: 9
+      pivot: {x: .565722764, y: .911206722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_HanfLB
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 44
+        width: 37
+        height: 138
+      alignment: 9
+      pivot: {x: .553288639, y: .920054317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_HandB
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 25
+        width: 47
+        height: 186
+      alignment: 9
+      pivot: {x: .558730781, y: .915537655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Body
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 49
+        width: 160
+        height: 231
+      alignment: 9
+      pivot: {x: .517252326, y: .139804751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Bott
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 43
+        width: 140
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_FingersF
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 14
+        width: 49
+        height: 53
+      alignment: 9
+      pivot: {x: .717288256, y: .805053055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_FingersB
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 14
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: .730029762, y: .7752918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
